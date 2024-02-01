@@ -13,6 +13,7 @@
 		63385FEF29DCAA080048D0BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63385FED29DCAA080048D0BD /* Main.storyboard */; };
 		63385FF129DCAA0A0048D0BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63385FF029DCAA0A0048D0BD /* Assets.xcassets */; };
 		63385FF429DCAA0A0048D0BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63385FF229DCAA0A0048D0BD /* LaunchScreen.storyboard */; };
+		C1B0642C2B6C20E600374887 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B0642B2B6C20E600374887 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		63385FF029DCAA0A0048D0BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63385FF329DCAA0A0048D0BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63385FF529DCAA0A0048D0BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1B0642B2B6C20E600374887 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				63385FF029DCAA0A0048D0BD /* Assets.xcassets */,
 				63385FF229DCAA0A0048D0BD /* LaunchScreen.storyboard */,
 				63385FF529DCAA0A0048D0BD /* Info.plist */,
+				C1B0642B2B6C20E600374887 /* Constants.swift */,
 			);
 			path = DMTableViewIntro;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				63385FEC29DCAA080048D0BD /* ExpensesViewController.swift in Sources */,
 				63385FE829DCAA080048D0BD /* AppDelegate.swift in Sources */,
 				63385FEA29DCAA080048D0BD /* SceneDelegate.swift in Sources */,
+				C1B0642C2B6C20E600374887 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,7 +291,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 7T5K9UZ754;
+				DEVELOPMENT_TEAM = KR322V3HJ4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DMTableViewIntro/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -300,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = davidruvinskiy.DMTableViewIntro;
+				PRODUCT_BUNDLE_IDENTIFIER = davidruvinskiy.DMTableViewIntrobeauenslow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -315,7 +319,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 7T5K9UZ754;
+				DEVELOPMENT_TEAM = KR322V3HJ4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DMTableViewIntro/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -328,7 +332,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = davidruvinskiy.DMTableViewIntro;
+				PRODUCT_BUNDLE_IDENTIFIER = davidruvinskiy.DMTableViewIntrobeauenslow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
